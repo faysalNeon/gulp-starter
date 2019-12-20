@@ -3,7 +3,7 @@
 ---
 - <i style="color:green"> Open command & copy below code and past on it</i>
 ~~~
-git clone https://github.com/faysalNeon/gulp-starter.git
+git clone https://github.com/faysalNeon/html-factory.git
 ~~~
 - <i style="color:green"> Application Structure</i>
 ~~~

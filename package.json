@@ -1,5 +1,5 @@
 {
-  "name": "starter",
+  "name": "html-factory",
   "version": "1.0.0",
   "description": "Template Generator",
   "main": "gulpfile.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/faysalNeon/gulp-starter.git"
+    "url": "https://github.com/faysalNeon/html-factory.git"
   },
   "keywords": [
     "template",
@@ -22,16 +22,12 @@
     "scss",
     "css"
   ],
-  "author": {
-    "name": "Faysal Neon",
-    "link": "https://faysalneon.github.io",
-    "blog": "https://faysalneon.blogspot.com"
-  },
+  "author":"Faysal Neon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/faysalNeon/gulp-starter/issues"
+    "url": "https://github.com/faysalNeon/html-factory/issues"
   },
-  "homepage": "https://github.com/faysalNeon/gulp-starter#readme",
+  "homepage": "https://github.com/faysalNeon/html-factory#readme",
   "devDependencies": {
     "autoprefixer": "^9.7.3",
     "browser-sync": "^2.26.7",
