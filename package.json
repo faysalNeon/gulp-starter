@@ -12,16 +12,7 @@
     "type": "git",
     "url": "https://github.com/faysalNeon/html-factory.git"
   },
-  "keywords": [
-    "template",
-    "generator",
-    "gulp-cli",
-    "node",
-    "npm",
-    "html",
-    "scss",
-    "css"
-  ],
+  "keywords": [],
   "author":"Faysal Neon",
   "license": "ISC",
   "bugs": {
