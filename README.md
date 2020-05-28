@@ -37,7 +37,6 @@ git clone https://github.com/faysalNeon/html-factory.git
 ├── gulpfile.js
 ├── package-lock.json
 ├── package.json
-├── project.json
 └── README.md
 ~~~
 - <i style="color:green"> Past Below Code </i>
