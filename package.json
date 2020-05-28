@@ -1,19 +1,33 @@
 {
   "name": "html-factory",
   "version": "1.0.0",
+  "favicon": "favicon.ico",
   "description": "Template Generator",
   "main": "gulpfile.js",
   "scripts": {
+    "dev": "gulp",
     "start": "gulp watch",
-    "build": "gulp build",
-    "dev": "gulp"
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/faysalNeon/html-factory.git"
+    "url": "git+https://github.com/faysalNeon/html-factory.git"
   },
-  "keywords": [],
-  "author":"Faysal Neon",
+  "keywords": [
+    "css",
+    "npm",
+    "node",
+    "html",
+    "scss",
+    "gulp-cli",
+    "template",
+    "generator"
+  ],
+  "author": {
+    "name": "Faysal Neon",
+    "link": "https://faysalneon.github.io",
+    "blog": "https://faysalneon.blogspot.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/faysalNeon/html-factory/issues"
@@ -36,5 +50,16 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1"
+  },
+  "app": {
+    "name": "HTML Template Generator",
+    "dist": "app",
+    "styles": [
+      "node_modules/bootstrap/scss/bootstrap.scss"
+    ],
+    "scripts": [
+      "node_modules/jquery/dist/jquery.min.js",
+      "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    ]
   }
 }
